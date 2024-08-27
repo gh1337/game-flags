@@ -1,0 +1,2074 @@
+[
+    {
+      "id": 1,
+      "description": "Choose your character's gender",
+      "triggered": false
+    },
+    {
+      "id": 2,
+      "description": "Choose your character's name",
+      "triggered": false
+    },
+    {
+      "id": 3,
+      "description": "Set the clock in your room",
+      "triggered": false
+    },
+    {
+      "id": 4,
+      "description": "Withdraw Potion from PC in your room",
+      "triggered": false
+    },
+    {
+      "id": 5,
+      "description": "Visit your neighbor's house",
+      "triggered": false
+    },
+    {
+      "id": 6,
+      "description": "Meet your rival (May/Brendan) upstairs",
+      "triggered": false
+    },
+    {
+      "id": 7,
+      "description": "Help Professor Birch escape from a wild Pokémon",
+      "triggered": false
+    },
+    {
+      "id": 8,
+      "description": "Choose your starter Pokémon (Treecko, Torchic, Mudkip)",
+      "triggered": false
+    },
+    {
+      "id": 9,
+      "description": "Defeat wild Zigzagoon to save Professor Birch",
+      "triggered": false
+    },
+    {
+      "id": 10,
+      "description": "Head North of town to Oldale Town",
+      "triggered": false
+    },
+    {
+      "id": 11,
+      "description": "Visit the Pokémon Center in Oldale Town",
+      "triggered": false
+    },
+    {
+      "id": 12,
+      "description": "Receive a free Potion from the woman outside the Poké Mart",
+      "triggered": false
+    },
+    {
+      "id": 13,
+      "description": "Defeat your rival on Route 103",
+      "triggered": false
+    },
+    {
+      "id": 14,
+      "description": "Return to Professor Birch's lab to receive the Pokédex",
+      "triggered": false
+    },
+    {
+      "id": 15,
+      "description": "Receive 5 Pokéballs from your rival",
+      "triggered": false
+    },
+    {
+      "id": 16,
+      "description": "Receive Running Shoes from your Mom",
+      "triggered": false
+    },
+    {
+      "id": 17,
+      "description": "Battle the first trainer on Route 102",
+      "triggered": false
+    },
+    {
+      "id": 18,
+      "description": "Battle the second trainer on Route 102 (2 Wurmple)",
+      "triggered": false
+    },
+    {
+      "id": 19,
+      "description": "Battle the third trainer on Route 102 (Zigzagoon and Taillow)",
+      "triggered": false
+    },
+    {
+      "id": 20,
+      "description": "Battle the fourth trainer on Route 102 (Zigzagoon and Shroomish)",
+      "triggered": false
+    },
+    {
+      "id": 21,
+      "description": "Catch a Lotad for the next gym",
+      "triggered": false
+    },
+    {
+      "id": 22,
+      "description": "Catch a Ralts on Route 102",
+      "triggered": false
+    },
+    {
+      "id": 23,
+      "description": "Visit Petalburg Gym and talk to your Dad",
+      "triggered": false
+    },
+    {
+      "id": 24,
+      "description": "Help Wally catch a Pokémon",
+      "triggered": false
+    },
+    {
+      "id": 25,
+      "description": "Head West of Petalburg to Petalburg Woods",
+      "triggered": false
+    },
+    {
+        "id": 26,
+        "description": "Encounter a random man as you leave Petalburg",
+        "triggered": false
+      },
+      {
+        "id": 27,
+        "description": "Battle the fisherman south of the Cottage on Route 104",
+        "triggered": false
+      },
+      {
+        "id": 28,
+        "description": "Battle the trainer with Zigzagoon south of the Cottage",
+        "triggered": false
+      },
+      {
+        "id": 29,
+        "description": "Battle the last trainer before Petalburg Woods (Zigzagoon)",
+        "triggered": false
+      },
+      {
+        "id": 30,
+        "description": "Enter Petalburg Woods",
+        "triggered": false
+      },
+      {
+        "id": 31,
+        "description": "Battle the Bug Trainer with Wurmple in Petalburg Woods",
+        "triggered": false
+      },
+      {
+        "id": 32,
+        "description": "Help the man being attacked by an Aqua Grunt",
+        "triggered": false
+      },
+      {
+        "id": 33,
+        "description": "Defeat the Aqua Grunt (Poochyena)",
+        "triggered": false
+      },
+      {
+        "id": 34,
+        "description": "Receive a Great Ball from the man you helped",
+        "triggered": false
+      },
+      {
+        "id": 35,
+        "description": "Battle the trainer with Nincada after the Aqua Grunt",
+        "triggered": false
+      },
+      {
+        "id": 36,
+        "description": "Exit Petalburg Woods and head to Route 104",
+        "triggered": false
+      },
+      {
+        "id": 37,
+        "description": "Visit the flower shop to receive a Wailmer Pail",
+        "triggered": false
+      },
+      {
+        "id": 38,
+        "description": "Receive a berry from the woman in the flower shop",
+        "triggered": false
+      },
+      {
+        "id": 39,
+        "description": "Battle the rich trainer with Zigzagoon right of the flower shop",
+        "triggered": false
+      },
+      {
+        "id": 40,
+        "description": "Battle the lady with Lotad and Shroomish",
+        "triggered": false
+      },
+      {
+        "id": 41,
+        "description": "Cross the bridge and enter your first double battle (Seedot and Lotad)",
+        "triggered": false
+      },
+      {
+        "id": 42,
+        "description": "Battle the fisherman with Magikarp past the bridge",
+        "triggered": false
+      },
+      {
+        "id": 43,
+        "description": "Visit Cutter's House to receive HM01 Cut",
+        "triggered": false
+      },
+      {
+        "id": 44,
+        "description": "Enter the Rustboro City Gym",
+        "triggered": false
+      },
+      {
+        "id": 45,
+        "description": "Defeat the first Gym Trainer with Geodude",
+        "triggered": false
+      },
+      {
+        "id": 46,
+        "description": "Defeat the double battle with two Geodude",
+        "triggered": false
+      },
+      {
+        "id": 47,
+        "description": "Battle Gym Leader Roxanne",
+        "triggered": false
+      },
+      {
+        "id": 48,
+        "description": "Defeat Roxanne's Geodude",
+        "triggered": false
+      },
+      {
+        "id": 49,
+        "description": "Defeat Roxanne's Nosepass",
+        "triggered": false
+      },
+      {
+        "id": 50,
+        "description": "Earn the Stone Badge",
+        "triggered": false
+      },
+      {
+        "id": 51,
+        "description": "Gain the ability to use Cut outside of battle",
+        "triggered": false
+      },
+      {
+        "id": 52,
+        "description": "Encounter the robbed man after leaving the Gym",
+        "triggered": false
+      },
+      {
+        "id": 53,
+        "description": "Heal your Pokémon at the Pokémon Center",
+        "triggered": false
+      },
+      {
+        "id": 54,
+        "description": "Find the robbed man north of Rustboro City",
+        "triggered": false
+      },
+      {
+        "id": 55,
+        "description": "Agree to help retrieve the stolen Goods",
+        "triggered": false
+      },
+      {
+        "id": 56,
+        "description": "Battle the bottom path trainer on Route 106 (Wurmple and Nincada)",
+        "triggered": false
+      },
+      {
+        "id": 57,
+        "description": "Battle the top path trainer on Route 106 (Machop)",
+        "triggered": false
+      },
+      {
+        "id": 58,
+        "description": "Battle the schoolgirl with Shroomish",
+        "triggered": false
+      },
+      {
+        "id": 59,
+        "description": "Complete the double battle with Shroomish, Geodude, and Lotad",
+        "triggered": false
+      },
+      {
+        "id": 60,
+        "description": "Battle the Hiker with Geodudes",
+        "triggered": false
+      },
+      {
+        "id": 61,
+        "description": "Meet the two people who encountered Team Aqua",
+        "triggered": false
+      },
+      {
+        "id": 62,
+        "description": "Enter Rusturf Tunnel",
+        "triggered": false
+      },
+      {
+        "id": 63,
+        "description": "Battle the Aqua Grunt in Rusturf Tunnel (Poochyena)",
+        "triggered": false
+      },
+      {
+        "id": 64,
+        "description": "Retrieve the Devon Goods and Peeko from the Aqua Grunt",
+        "triggered": false
+      },
+      {
+        "id": 65,
+        "description": "Meet Capt. Briney and earn a favor",
+        "triggered": false
+      },
+      {
+        "id": 66,
+        "description": "Return the Devon Goods to the man in Rustboro City",
+        "triggered": false
+      },
+      {
+        "id": 67,
+        "description": "Receive a Great Ball from the Devon employee",
+        "triggered": false
+      },
+      {
+        "id": 68,
+        "description": "Meet the President of Devon Corp and receive the PokéNav",
+        "triggered": false
+      },
+      {
+        "id": 69,
+        "description": "Receive a mission to deliver a letter to Dewford and Goods to Slateport",
+        "triggered": false
+      },
+      {
+        "id": 70,
+        "description": "Meet the fossil reviver on the second floor of Devon Corp",
+        "triggered": false
+      },
+      {
+        "id": 71,
+        "description": "Upgrade the PokéNav with the phone feature",
+        "triggered": false
+      },
+      {
+        "id": 72,
+        "description": "Catch a Pokémon that can learn Cut (Nincada if needed)",
+        "triggered": false
+      },
+      {
+        "id": 73,
+        "description": "Head back to Rusturf Tunnel to battle trainers to the left of the Rest Stop",
+        "triggered": false
+      },
+      {
+        "id": 74,
+        "description": "Battle the trainer with Lotad, 2 Zigzagoon, and Poochyena",
+        "triggered": false
+      },
+      {
+        "id": 75,
+        "description": "Complete the second double battle with Marill and Ralts",
+        "triggered": false
+      },
+      {
+        "id": 76,
+        "description": "Evolve Lotad into Lombre (if applicable)",
+        "triggered": false
+      },
+      {
+        "id": 77,
+        "description": "Use Cut on normal grass to clear it temporarily",
+        "triggered": false
+      },
+      {
+        "id": 78,
+        "description": "Challenge your rival outside Rustboro City (optional)",
+        "triggered": false
+      },
+      {
+        "id": 79,
+        "description": "Use Cut in Petalburg Woods to obtain Miracle Seed",
+        "triggered": false
+      },
+      {
+        "id": 80,
+        "description": "Capture or ensure you have a Flying-type Pokémon (e.g., Taillow)",
+        "triggered": false
+      },
+      {
+        "id": 81,
+        "description": "Talk to Capt. Briney to sail to Dewford",
+        "triggered": false
+      },
+      {
+        "id": 82,
+        "description": "Obtain the Old Rod from the fisherman by the Dewford Gym",
+        "triggered": false
+      },
+      {
+        "id": 83,
+        "description": "Enter Dewford Gym and begin clearing it",
+        "triggered": false
+      },
+      {
+        "id": 84,
+        "description": "Battle the first Gym trainer with Meditite",
+        "triggered": false
+      },
+      {
+        "id": 85,
+        "description": "Complete the double battle with Meditite and Machop",
+        "triggered": false
+      },
+      {
+        "id": 86,
+        "description": "Battle the trainer with Makuhita on the left path",
+        "triggered": false
+      },
+      {
+        "id": 87,
+        "description": "Battle the trainer with Machop on the right path",
+        "triggered": false
+      },
+      {
+        "id": 88,
+        "description": "Battle the final Gym trainer with Meditite",
+        "triggered": false
+      },
+      {
+        "id": 89,
+        "description": "Challenge Gym Leader Brawly",
+        "triggered": false
+      },
+      {
+        "id": 90,
+        "description": "Defeat Brawly's Machop, Meditite, and Makuhita",
+        "triggered": false
+      },
+      {
+        "id": 91,
+        "description": "Earn the Knuckle Badge",
+        "triggered": false
+      },
+      {
+        "id": 92,
+        "description": "Re-enter Granite Cave with a Pokémon that knows Flash",
+        "triggered": false
+      },
+      {
+        "id": 93,
+        "description": "Deliver the letter to Steven in Granite Cave",
+        "triggered": false
+      },
+      {
+        "id": 94,
+        "description": "Receive TM from Steven",
+        "triggered": false
+      },
+      {
+        "id": 95,
+        "description": "Return to the Devon Corp President to receive Exp. Share",
+        "triggered": false
+      },
+      {
+        "id": 96,
+        "description": "Talk to Capt. Briney to sail to Slateport City",
+        "triggered": false
+      },
+      {
+        "id": 97,
+        "description": "Battle the trainers on the Slateport beaches",
+        "triggered": false
+      },
+      {
+        "id": 98,
+        "description": "Receive a hold item from the kids on the beach",
+        "triggered": false
+      },
+      {
+        "id": 99,
+        "description": "Complete the double battle with Marill and Wingull",
+        "triggered": false
+      },
+      {
+        "id": 100,
+        "description": "Battle the double battle with Tentacool and Azurill near the red umbrellas",
+        "triggered": false
+      },
+      {
+        "id": 101,
+        "description": "Visit the Seaside Shack and challenge the three trainers",
+        "triggered": false
+      },
+      {
+        "id": 102,
+        "description": "Defeat the girl with Goldeen in the Seaside Shack",
+        "triggered": false
+      },
+      {
+        "id": 103,
+        "description": "Defeat the tuber with Azurill and Marill in the Seaside Shack",
+        "triggered": false
+      },
+      {
+        "id": 104,
+        "description": "Defeat the sailor with Wingull, Tentacool, and Machop in the Seaside Shack",
+        "triggered": false
+      },
+      {
+        "id": 105,
+        "description": "Receive free Soda Pop after defeating all trainers in the Seaside Shack",
+        "triggered": false
+      },
+      {
+        "id": 106,
+        "description": "Stock up on Soda Pop from the Seaside Shack",
+        "triggered": false
+      },
+      {
+        "id": 107,
+        "description": "Visit the Slateport Shipyard and learn Stern is at the museum",
+        "triggered": false
+      },
+      {
+        "id": 108,
+        "description": "Enter the museum and pay the entry fee",
+        "triggered": false
+      },
+      {
+        "id": 109,
+        "description": "Receive a TM from the Aqua Grunt you defeated earlier",
+        "triggered": false
+      },
+      {
+        "id": 110,
+        "description": "Meet Capt. Stern on the second floor of the museum",
+        "triggered": false
+      },
+      {
+        "id": 111,
+        "description": "Defeat the Team Aqua Grunts in the museum",
+        "triggered": false
+      },
+      {
+        "id": 112,
+        "description": "Encounter Team Aqua Leader Archie and stop the theft of Devon Goods",
+        "triggered": false
+      },
+      {
+        "id": 113,
+        "description": "Leave the museum and meet Scott outside",
+        "triggered": false
+      },
+      {
+        "id": 114,
+        "description": "Purchase a Harbor Mail from the Slateport Poké Mart",
+        "triggered": false
+      },
+      {
+        "id": 115,
+        "description": "Head north of Slateport City to reach Route 110",
+        "triggered": false
+      },
+      {
+        "id": 116,
+        "description": "Receive Prof. Birch's number on Route 110",
+        "triggered": false
+      },
+      {
+        "id": 117,
+        "description": "Complete the double battle with Plusle and Minun on Route 110",
+        "triggered": false
+      },
+      {
+        "id": 118,
+        "description": "Enter the Trick House and solve the first puzzle using Cut",
+        "triggered": false
+      },
+      {
+        "id": 119,
+        "description": "Battle the trainer with Oddish in the Trick House",
+        "triggered": false
+      },
+      {
+        "id": 120,
+        "description": "Battle the trainer with Skitty, Shroomish, and Marill in the Trick House",
+        "triggered": false
+      },
+      {
+        "id": 121,
+        "description": "Battle the trainer with Zigzagoon in the Trick House",
+        "triggered": false
+      },
+      {
+        "id": 122,
+        "description": "Receive a Rare Candy from the Trick Master",
+        "triggered": false
+      },
+      {
+        "id": 123,
+        "description": "Battle the trainer with Shroomish and Roselia left of the Trick House",
+        "triggered": false
+      },
+      {
+        "id": 124,
+        "description": "Complete the double battle with Plusle and Minun past the Trick House",
+        "triggered": false
+      },
+      {
+        "id": 125,
+        "description": "Battle the trainer with Skitty past the twins on Route 110",
+        "triggered": false
+      },
+      {
+        "id": 126,
+        "description": "Battle the angry fisherman with Magikarp and Tentacool",
+        "triggered": false
+      },
+      {
+        "id": 127,
+        "description": "Complete the double battle with Makuhita and Voltorb behind the twins",
+        "triggered": false
+      },
+      {
+        "id": 128,
+        "description": "Battle the trainer with Aron and Electrike before Mauville",
+        "triggered": false
+      },
+      {
+        "id": 129,
+        "description": "Battle your rival on Route 110",
+        "triggered": false
+      },
+      {
+        "id": 130,
+        "description": "Receive a present from your rival after the battle",
+        "triggered": false
+      },
+      {
+        "id": 131,
+        "description": "Complete the double battle with Electrike, Voltorb, Lombre, and Nuzleaf",
+        "triggered": false
+      },
+      {
+        "id": 132,
+        "description": "Complete the double battle with Magnemite and Abra",
+        "triggered": false
+      },
+      {
+        "id": 133,
+        "description": "Battle the last fisherman on Route 110 with Tentacool and Wailmer",
+        "triggered": false
+      },
+      {
+        "id": 134,
+        "description": "Trade Harbor Mail for a Coin Case in Mauville",
+        "triggered": false
+      },
+      {
+        "id": 135,
+        "description": "Receive HM Rock Smash from the man in the house right of the Poké Mart",
+        "triggered": false
+      },
+      {
+        "id": 136,
+        "description": "Visit the Bicycle Shop and choose a Mach or Acro Bike",
+        "triggered": false
+      },
+      {
+        "id": 137,
+        "description": "Battle Wally in front of the Mauville Gym",
+        "triggered": false
+      },
+      {
+        "id": 138,
+        "description": "Enter Mauville Gym and start clearing it",
+        "triggered": false
+      },
+      {
+        "id": 139,
+        "description": "Complete the double battle with Electrike, Meditite, and Voltorb in the Gym",
+        "triggered": false
+      },
+      {
+        "id": 140,
+        "description": "Battle the trainer in the middle of the Gym with Zigzagoon and Gulpin",
+        "triggered": false
+      },
+      {
+        "id": 141,
+        "description": "Complete the double battle with Illumise, Volbeat, Voltorb, and Magnemite in the Gym",
+        "triggered": false
+      },
+      {
+        "id": 142,
+        "description": "Solve the electrified grid puzzle in Mauville Gym",
+        "triggered": false
+      },
+      {
+        "id": 143,
+        "description": "Challenge Gym Leader Wattson",
+        "triggered": false
+      },
+      {
+        "id": 144,
+        "description": "Defeat Wattson's Voltorb, Electrike, Magneton, and Manectric",
+        "triggered": false
+      },
+      {
+        "id": 145,
+        "description": "Earn the Dynamo Badge",
+        "triggered": false
+      },
+      {
+        "id": 146,
+        "description": "Gain the ability to use Rock Smash outside of battle",
+        "triggered": false
+      },
+      {
+        "id": 147,
+        "description": "Visit the Day Care Center on Route 117",
+        "triggered": false
+      },
+      {
+        "id": 148,
+        "description": "Battle the twins with Makuhita and Zigzagoon near the Day Care",
+        "triggered": false
+      },
+      {
+        "id": 149,
+        "description": "Battle the trainer with Whismur, Aron, Taillow, Poochyena, Makuhita, and Zigzagoon",
+        "triggered": false
+      },
+      {
+        "id": 150,
+        "description": "Battle the trainers below the Day Care (Pokémon around level 18)",
+        "triggered": false
+      },
+      {
+        "id": 151,
+        "description": "Battle the trainer with Beautifly and Dustox past the pond",
+        "triggered": false
+      },
+      {
+        "id": 152,
+        "description": "Battle the trainers with Doduo and Ralts above the pond",
+        "triggered": false
+      },
+      {
+        "id": 153,
+        "description": "Battle the trainer with Meditite above the pond",
+        "triggered": false
+      },
+      {
+        "id": 154,
+        "description": "Battle the trainer with 6 weak Pokémon before entering Rusturf Tunnel",
+        "triggered": false
+      },
+      {
+        "id": 155,
+        "description": "Defeat the trainer with Wingull, Marill, Goldeen, Shroomish, Roselia, and Skitty",
+        "triggered": false
+      },
+      {
+        "id": 156,
+        "description": "Head to Rusturf Tunnel from Rustboro City",
+        "triggered": false
+      },
+      {
+        "id": 157,
+        "description": "Use Rock Smash to enter Rusturf Tunnel",
+        "triggered": false
+      },
+      {
+        "id": 158,
+        "description": "Explore the left path outside Rusturf Tunnel",
+        "triggered": false
+      },
+      {
+        "id": 159,
+        "description": "Find the lost glasses using the Itemfinder or by pressing A",
+        "triggered": false
+      },
+      {
+        "id": 160,
+        "description": "Battle the Hiker in Rusturf Tunnel with Geodude and Machop",
+        "triggered": false
+      },
+      {
+        "id": 161,
+        "description": "Use Rock Smash to reunite Wanda and the tunnel digger",
+        "triggered": false
+      },
+      {
+        "id": 162,
+        "description": "Receive HM Strength from the tunnel digger",
+        "triggered": false
+      },
+      {
+        "id": 163,
+        "description": "Head north of Mauville to Route 111",
+        "triggered": false
+      },
+      {
+        "id": 164,
+        "description": "Battle the trainers with Roselia and Sandshrew on Route 111",
+        "triggered": false
+      },
+      {
+        "id": 165,
+        "description": "Complete the double battle with Numel and Shroomish on Route 111",
+        "triggered": false
+      },
+      {
+        "id": 166,
+        "description": "Visit the building to the right for healing and post-game battles",
+        "triggered": false
+      },
+      {
+        "id": 167,
+        "description": "Challenge the Winstrate family (4 battles in a row)",
+        "triggered": false
+      },
+      {
+        "id": 168,
+        "description": "Defeat the Winstrate father with Taillow and Zigzagoon",
+        "triggered": false
+      },
+      {
+        "id": 169,
+        "description": "Defeat the Winstrate mother with Marill, Shroomish, and Numel",
+        "triggered": false
+      },
+      {
+        "id": 170,
+        "description": "Defeat the Winstrate daughter with Numel",
+        "triggered": false
+      },
+      {
+        "id": 171,
+        "description": "Defeat the Winstrate grandmother with Meditite",
+        "triggered": false
+      },
+      {
+        "id": 172,
+        "description": "Receive the Macho Brace from the Winstrate mother",
+        "triggered": false
+      },
+      {
+        "id": 173,
+        "description": "Use Rock Smash to break the rocks north of the Winstrate house",
+        "triggered": false
+      },
+      {
+        "id": 174,
+        "description": "Battle the reporters with Whismur and Magnemite",
+        "triggered": false
+      },
+      {
+        "id": 175,
+        "description": "Battle the camper with Shroomish and Marill",
+        "triggered": false
+      },
+      {
+        "id": 176,
+        "description": "Battle the camper with Sandshrew",
+        "triggered": false
+      },
+      {
+        "id": 177,
+        "description": "Encounter the desert and learn you can't proceed yet",
+        "triggered": false
+      },
+      {
+        "id": 178,
+        "description": "Head left of the desert to find Fire-type Pokémon",
+        "triggered": false
+      },
+      {
+        "id": 179,
+        "description": "Battle the camper below the grass area with Nuzleaf",
+        "triggered": false
+      },
+      {
+        "id": 180,
+        "description": "Battle the camper with Taillow and Lombre",
+        "triggered": false
+      },
+      {
+        "id": 181,
+        "description": "Arrive at the base of Mt. Chimney",
+        "triggered": false
+      },
+      {
+        "id": 182,
+        "description": "Battle the hiker on the right with Numel and Machop",
+        "triggered": false
+      },
+      {
+        "id": 183,
+        "description": "Discover Team Magma blocking the cable car entrance",
+        "triggered": false
+      },
+      {
+        "id": 184,
+        "description": "Head left to battle the hiker with Geodude",
+        "triggered": false
+      },
+      {
+        "id": 185,
+        "description": "Enter Fiery Path and explore for more Fire-type Pokémon",
+        "triggered": false
+      },
+      {
+        "id": 186,
+        "description": "Complete the double battle at the start of Route 112",
+        "triggered": false
+      },
+      {
+        "id": 187,
+        "description": "Battle the trainer with Shroomish and Roselia",
+        "triggered": false
+      },
+      {
+        "id": 188,
+        "description": "Battle the trainer with Numel",
+        "triggered": false
+      },
+      {
+        "id": 189,
+        "description": "Battle the Cooltrainer with Electrike, Makuhita, and Wailmer",
+        "triggered": false
+      },
+      {
+        "id": 190,
+        "description": "Receive TM Secret Power from the man by the tree",
+        "triggered": false
+      },
+      {
+        "id": 191,
+        "description": "Visit the Rest Stop to heal your Pokémon",
+        "triggered": false
+      },
+      {
+        "id": 192,
+        "description": "Battle the trainer with Wingull, Numel, and Roselia",
+        "triggered": false
+      },
+      {
+        "id": 193,
+        "description": "Enter Route 113 with soot-covered grass",
+        "triggered": false
+      },
+      {
+        "id": 194,
+        "description": "Battle the trainer with Trapinch on Route 113",
+        "triggered": false
+      },
+      {
+        "id": 195,
+        "description": "Complete the double battle with Koffing, Baltoy, and Sandshrew",
+        "triggered": false
+      },
+      {
+        "id": 196,
+        "description": "Battle the trainer with Aron after the double battle",
+        "triggered": false
+      },
+      {
+        "id": 197,
+        "description": "Collect the Nugget of gold hidden behind the third trainer",
+        "triggered": false
+      },
+      {
+        "id": 198,
+        "description": "Battle the trainer with Numel on Route 113",
+        "triggered": false
+      },
+      {
+        "id": 199,
+        "description": "Complete the double battle with twins using Spinda",
+        "triggered": false
+      },
+      {
+        "id": 200,
+        "description": "Visit the Glass Workshop and receive the Soot Sack",
+        "triggered": false
+      },
+      {
+        "id": 201,
+        "description": "Battle the hidden ninja with Koffing near the Glass Workshop",
+        "triggered": false
+      },
+      {
+        "id": 202,
+        "description": "Battle the trainer with Aron near the end of Route 113",
+        "triggered": false
+      },
+      {
+        "id": 203,
+        "description": "Complete the double battle with Skarmory, Marill, Swellow, and Lombre",
+        "triggered": false
+      },
+      {
+        "id": 204,
+        "description": "Meet Lanette at the Fallabor Town Pokémon Center and later at her house",
+        "triggered": false
+      },
+      {
+        "id": 205,
+        "description": "Learn about Team Magma's activity in Meteor Falls",
+        "triggered": false
+      },
+      {
+        "id": 206,
+        "description": "Visit the move relearner and learn about Heart Scales",
+        "triggered": false
+      },
+      {
+        "id": 207,
+        "description": "Receive TM Dig from the Fossil Maniac's brother",
+        "triggered": false
+      },
+      {
+        "id": 208,
+        "description": "Battle the Fisherman with Barboach",
+        "triggered": false
+      },
+      {
+        "id": 209,
+        "description": "Complete the double battle with Nuzleaf and Barboach near the bridge",
+        "triggered": false
+      },
+      {
+        "id": 210,
+        "description": "Cross the bridge and battle the Fisherman with Magikarp, Barboach, and Goldeen",
+        "triggered": false
+      },
+      {
+        "id": 211,
+        "description": "Battle the Camper with Marill and Lombre",
+        "triggered": false
+      },
+      {
+        "id": 212,
+        "description": "Find the berries around the house after crossing the bridge",
+        "triggered": false
+      },
+      {
+        "id": 213,
+        "description": "Battle the twins with Graveler and Roselia south of Lanette's house",
+        "triggered": false
+      },
+      {
+        "id": 214,
+        "description": "Battle the Camper with Sandshrew and Nuzleaf",
+        "triggered": false
+      },
+      {
+        "id": 215,
+        "description": "Battle the Trainer with Aron",
+        "triggered": false
+      },
+      {
+        "id": 216,
+        "description": "Enter Meteor Falls and witness the event with Team Magma and Team Aqua",
+        "triggered": false
+      },
+      {
+        "id": 217,
+        "description": "Exit Meteor Falls to Route 115 and battle the Martial Artist with Machop",
+        "triggered": false
+      },
+      {
+        "id": 218,
+        "description": "Battle the Martial Artist with Meditite and Makuhita near the beach",
+        "triggered": false
+      },
+      {
+        "id": 219,
+        "description": "Complete the double battle with Meditite, Zangoose, Seviper, and Spoink",
+        "triggered": false
+      },
+      {
+        "id": 220,
+        "description": "Collect the PP Up shortly past the double battle",
+        "triggered": false
+      },
+      {
+        "id": 221,
+        "description": "Return to Fallabor Town and go to the cable cars on Mt. Chimney",
+        "triggered": false
+      },
+      {
+        "id": 222,
+        "description": "Witness the battle between Team Aqua and Team Magma at Mt. Chimney",
+        "triggered": false
+      },
+      {
+        "id": 223,
+        "description": "Complete the double battle with Numel and Zubat on Mt. Chimney",
+        "triggered": false
+      },
+      {
+        "id": 224,
+        "description": "Battle the Magma Grunt with Numel, Zubat, and Poochyena",
+        "triggered": false
+      },
+      {
+        "id": 225,
+        "description": "Defeat Maxie at Mt. Chimney",
+        "triggered": false
+      },
+      {
+        "id": 226,
+        "description": "Retrieve the Meteorite from Maxie's device and return it to Prof. Cosma",
+        "triggered": false
+      },
+      {
+        "id": 227,
+        "description": "Purchase cookies from the old lady near the entrance of Jagged Path",
+        "triggered": false
+      },
+      {
+        "id": 228,
+        "description": "Battle the Trainer with Geodude and Baltoy on Jagged Path",
+        "triggered": false
+      },
+      {
+        "id": 229,
+        "description": "Battle the Magma Grunt with Poochyena and Numel on Jagged Path",
+        "triggered": false
+      },
+      {
+        "id": 230,
+        "description": "Battle the Camper with Shroomish, Oddish, and Altaria",
+        "triggered": false
+      },
+      {
+        "id": 231,
+        "description": "Complete the double battle with Magnemite and Shroomish near the camper and cyclist",
+        "triggered": false
+      },
+      {
+        "id": 232,
+        "description": "Battle the Trainer with Zigzagoon and Taillow at the end of Jagged Path",
+        "triggered": false
+      },
+      {
+        "id": 233,
+        "description": "Arrive in Lavaridge Town and prepare to challenge the Fire-type Gym Leader Flannery",
+        "triggered": false
+      },
+      {
+        "id": 234,
+        "description": "Navigate the misty Lavaridge Gym and engage the trainers hidden in the holes",
+        "triggered": false
+      },
+      {
+        "id": 235,
+        "description": "Defeat the first trainer with Slugma after entering the first hole",
+        "triggered": false
+      },
+      {
+        "id": 236,
+        "description": "Complete the double battle against Numel and Slugma in the second room",
+        "triggered": false
+      },
+      {
+        "id": 237,
+        "description": "Win the double battle against Kecleon and Numel in the room with three holes",
+        "triggered": false
+      },
+      {
+        "id": 238,
+        "description": "Defeat the trainer with Numel in the next room after the double battle",
+        "triggered": false
+      },
+      {
+        "id": 239,
+        "description": "Engage and defeat the trainer with Slugma hidden in the top-right hole",
+        "triggered": false
+      },
+      {
+        "id": 240,
+        "description": "Win the battle against the trainer with Meditite in the top-left hole",
+        "triggered": false
+      },
+      {
+        "id": 241,
+        "description": "Reach the Gym Leader Flannery and prepare for battle",
+        "triggered": false
+      },
+      {
+        "id": 242,
+        "description": "Defeat Flannery, the Fire-type Gym Leader, and earn the Heat Badge",
+        "triggered": false
+      },
+      {
+        "id": 243,
+        "description": "Receive the Go-Goggles from your rival after defeating Flannery, allowing access to the desert",
+        "triggered": false
+      },
+      {
+        "id": 244,
+        "description": "Return to Petalburg City to challenge your father, Norman, for the fifth Gym Badge",
+        "triggered": false
+      },
+      {
+        "id": 245,
+        "description": "Navigate the Speed Room, Confusion Room, and Strength Room to reach Norman",
+        "triggered": false
+      },
+      {
+        "id": 246,
+        "description": "Defeat the Gym trainers in the Defense Room, OHKO Room, and Accuracy Room",
+        "triggered": false
+      },
+      {
+        "id": 247,
+        "description": "Defeat Norman, the Normal-type Gym Leader, and earn the Balance Badge",
+        "triggered": false
+      },
+      {
+        "id": 248,
+        "description": "Receive HM03 Surf from Wally's dad as a reward for defeating Norman",
+        "triggered": false
+      },
+      {
+        "id": 249,
+        "description": "Obtain the Amulet Coin from your mom after returning home",
+        "triggered": false
+      },
+      {
+        "id": 250,
+        "description": "Use Surf on Route 103 to access new areas and trainers",
+        "triggered": false
+      },
+      {
+        "id": 251,
+        "description": "Meet Wattson in Mauville City and receive the key to New Mauville",
+        "triggered": false
+      },
+      {
+        "id": 252,
+        "description": "Explore New Mauville, disable the generators, and return to Wattson for your reward",
+        "triggered": false
+      },
+      {
+        "id": 253,
+        "description": "Travel to Route 118, encountering trainers along the way",
+        "triggered": false
+      },
+      {
+        "id": 254,
+        "description": "Defeat the trainers using Zigzagoon, Roselia, Aron, Shroomish, and Electrike on Route 118",
+        "triggered": false
+      },
+      {
+        "id": 255,
+        "description": "Battle and defeat the fisherman with Tentacool on Route 118",
+        "triggered": false
+      },
+      {
+        "id": 256,
+        "description": "Defeat the rocker trainer with Magnemite and Whismur on Route 118",
+        "triggered": false
+      },
+      {
+        "id": 257,
+        "description": "Surf across the small river on Route 118 to reach the other side",
+        "triggered": false
+      },
+      {
+        "id": 258,
+        "description": "Obtain the Good Rod from the fisherman on the other side of the river",
+        "triggered": false
+      },
+      {
+        "id": 259,
+        "description": "Battle the reporters on the other side of Route 118 who now have Exploud and Magnemite",
+        "triggered": false
+      },
+      {
+        "id": 260,
+        "description": "Defeat the fisherman with Tentacool and Carvanha further down Route 118",
+        "triggered": false
+      },
+      {
+        "id": 261,
+        "description": "Battle the bird trainer with Taillow and Swellow",
+        "triggered": false
+      },
+      {
+        "id": 262,
+        "description": "Defeat the bird trainer with Wingull on the right side of Route 118",
+        "triggered": false
+      },
+      {
+        "id": 263,
+        "description": "Navigate through Route 119's tall grass areas, battling Bug Trainers along the way",
+        "triggered": false
+      },
+      {
+        "id": 264,
+        "description": "Battle and defeat the Bug Trainer with Surskit on Route 119",
+        "triggered": false
+      },
+      {
+        "id": 265,
+        "description": "Battle and defeat the Bug Trainer with Nincada and Ninjask",
+        "triggered": false
+      },
+      {
+        "id": 266,
+        "description": "Battle and defeat the Bug Trainer with Wurmple, Cascoon, and Dustox",
+        "triggered": false
+      },
+      {
+        "id": 267,
+        "description": "Battle and defeat the Bug Trainer with Ninjask",
+        "triggered": false
+      },
+      {
+        "id": 268,
+        "description": "Battle and defeat the Bug Trainer with Wurmple, Silcoon, and Beautifly",
+        "triggered": false
+      },
+      {
+        "id": 269,
+        "description": "Battle and defeat the Bug Trainer with Volbeat and Illumise",
+        "triggered": false
+      },
+      {
+        "id": 270,
+        "description": "Battle the Pokémon Ranger with Gloom and Roselia by the bridge",
+        "triggered": false
+      },
+      {
+        "id": 271,
+        "description": "Battle the Camper with Breloom after crossing the bridge",
+        "triggered": false
+      },
+      {
+        "id": 272,
+        "description": "Battle the Double Battle trainers with Swellow and Goldeen",
+        "triggered": false
+      },
+      {
+        "id": 273,
+        "description": "Use the Mach Bike to reach the higher area and battle the Trainer with Wingull and Tropius",
+        "triggered": false
+      },
+      {
+        "id": 274,
+        "description": "Battle the Double Battle trainers with Ninjask, Koffing, Slugma, and Numel",
+        "triggered": false
+      },
+      {
+        "id": 275,
+        "description": "Enter the Weather Institute and heal at the bed",
+        "triggered": false
+      },
+      {
+        "id": 276,
+        "description": "Defeat the Team Aqua Grunts inside the Weather Institute",
+        "triggered": false
+      },
+      {
+        "id": 277,
+        "description": "Battle the Team Aqua Admin with Carvanha and Mightyena",
+        "triggered": false
+      },
+      {
+        "id": 278,
+        "description": "Receive Castform or take the Mystic Water from it after saving the Weather Institute",
+        "triggered": false
+      },
+      {
+        "id": 279,
+        "description": "Battle your Rival on the bridge, who now uses Lombre, Slugma, and their Starter Pokémon",
+        "triggered": false
+      },
+      {
+        "id": 280,
+        "description": "Receive HM Fly from your Rival after the battle",
+        "triggered": false
+      },
+      {
+        "id": 281,
+        "description": "Battle the Trainer with Manectric north of the bridge",
+        "triggered": false
+      },
+      {
+        "id": 282,
+        "description": "Battle the hidden Ninja with Ninjask disguised as a tree",
+        "triggered": false
+      },
+      {
+        "id": 283,
+        "description": "Battle the hidden Ninja with Koffing",
+        "triggered": false
+      },
+      {
+        "id": 284,
+        "description": "Reach Fortree City, the location of the Sixth Gym",
+        "triggered": false
+      },
+      {
+        "id": 285,
+        "description": "Obtain TM Hidden Power in Fortree City by solving the woman's riddle",
+        "triggered": false
+      },
+      {
+        "id": 286,
+        "description": "Discover that you cannot reach the Fortree City Gym and must find a way to bypass the invisible barrier",
+        "triggered": false
+      },
+      {
+        "id": 287,
+        "description": "Meet Steven on Route 120, who reveals the invisible Kecleon and gives you the Devon Scope",
+        "triggered": false
+      },
+      {
+        "id": 288,
+        "description": "Use the Devon Scope to make the Kecleon flee and gain access to the Fortree City Gym",
+        "triggered": false
+      },
+      {
+        "id": 289,
+        "description": "Enter the Fortree City Gym and begin solving the turnstile puzzles",
+        "triggered": false
+      },
+      {
+        "id": 290,
+        "description": "Battle the first Gym Trainer in Fortree Gym, who uses Skarmory",
+        "triggered": false
+      },
+      {
+        "id": 291,
+        "description": "Defeat the Double Battle Trainers in Fortree Gym using Doduo, Swablu, Tropius, and Skarmory",
+        "triggered": false
+      },
+      {
+        "id": 292,
+        "description": "Navigate through the remaining turnstiles to face the Gym Leader",
+        "triggered": false
+      },
+      {
+        "id": 293,
+        "description": "Battle and defeat Winona, the Fortree City Gym Leader",
+        "triggered": false
+      },
+      {
+        "id": 294,
+        "description": "Earn the Feather Badge, allowing you to use Fly outside of battle",
+        "triggered": false
+      },
+      {
+        "id": 295,
+        "description": "After obtaining the Devon Scope, cross the bridge Steven left you at on Route 120",
+        "triggered": false
+      },
+      {
+        "id": 296,
+        "description": "Battle the trainer past the bridge who uses Wingull and Natu",
+        "triggered": false
+      },
+      {
+        "id": 297,
+        "description": "Head south through the tall grass and cross another bridge to reach Route 121",
+        "triggered": false
+      },
+      {
+        "id": 298,
+        "description": "Encounter Team Aqua on Route 121, heading towards Mt. Pyre",
+        "triggered": false
+      },
+      {
+        "id": 299,
+        "description": "Ignore Team Aqua for now and continue to Lilycove City",
+        "triggered": false
+      },
+      {
+        "id": 300,
+        "description": "In Lilycove City, visit the Pokémon Center and heal your Pokémon",
+        "triggered": false
+      },
+      {
+        "id": 301,
+        "description": "Visit Mt. Pyre by surfing around the mountain and entering the cave",
+        "triggered": false
+      },
+      {
+        "id": 302,
+        "description": "Climb Mt. Pyre and battle Team Aqua Grunts at the summit",
+        "triggered": false
+      },
+      {
+        "id": 303,
+        "description": "Learn that Team Aqua has stolen the Red Orb and left for their hideout",
+        "triggered": false
+      },
+      {
+        "id": 304,
+        "description": "Obtain the Pokéblock Case in Lilycove City's Contest Hall to access the Safari Zone",
+        "triggered": false
+      },
+      {
+        "id": 305,
+        "description": "Battle your Rival in front of the Lilycove Department Store, now with a Tropius on their team",
+        "triggered": false
+      },
+      {
+        "id": 306,
+        "description": "Visit the Move Deleter's house in Lilycove City to remove unwanted moves, including HMs",
+        "triggered": false
+      },
+      {
+        "id": 307,
+        "description": "Learn from Aqua Grunts in Lilycove that Team Aqua is planning something at Slateport",
+        "triggered": false
+      },
+      {
+        "id": 308,
+        "description": "Travel to Slateport City and witness Team Aqua stealing a submarine during an interview",
+        "triggered": false
+      },
+      {
+        "id": 309,
+        "description": "Return to Lilycove and infiltrate Team Aqua's base to stop their plans",
+        "triggered": false
+      },
+      {
+        "id": 310,
+        "description": "Navigate the teleporters in Team Aqua's hideout to find a Master Ball and battle Aqua Admin",
+        "triggered": false
+      },
+      {
+        "id": 311,
+        "description": "Discover that Archie has escaped and prepare for a sea journey from Slateport",
+        "triggered": false
+      },
+      {
+        "id": 312,
+        "description": "Head to Route 124 and take the straight path toward Mossdeep City",
+        "triggered": false
+      },
+      {
+        "id": 313,
+        "description": "Battle the double battle trainers on Route 124",
+        "triggered": false
+      },
+      {
+        "id": 314,
+        "description": "Encounter a lone swimmer on Route 124 after passing the double battle",
+        "triggered": false
+      },
+      {
+        "id": 315,
+        "description": "If you hit a dead end, go a little bit south to continue",
+        "triggered": false
+      },
+      {
+        "id": 316,
+        "description": "Visit the house on the ocean owned by the Hunter",
+        "triggered": false
+      },
+      {
+        "id": 317,
+        "description": "Learn that the Hunter will trade evolutionary stones for certain items you can find underwater after obtaining Dive",
+        "triggered": false
+      },
+      {
+        "id": 318,
+        "description": "Arrive at Mossdeep City after a short hop to the right from the Hunter's house",
+        "triggered": false
+      },
+      {
+        "id": 319,
+        "description": "Arrive at Mossdeep City",
+        "triggered": false
+      },
+      {
+        "id": 320,
+        "description": "Visit the Space Center on the right side of Mossdeep Island",
+        "triggered": false
+      },
+      {
+        "id": 321,
+        "description": "Learn that Steven is helping out at the Space Center because of Team Magma's presence",
+        "triggered": false
+      },
+      {
+        "id": 322,
+        "description": "Prepare a Dark-type Pokémon to defeat the seventh Gym",
+        "triggered": false
+      },
+      {
+        "id": 323,
+        "description": "Battle against Tate and Liza, the twin Gym Leaders, in a double battle",
+        "triggered": false
+      },
+      {
+        "id": 324,
+        "description": "Navigate the Gym where every battle can be a double battle",
+        "triggered": false
+      },
+      {
+        "id": 325,
+        "description": "Take the teleporter in the bottom left corner of the Gym",
+        "triggered": false
+      },
+      {
+        "id": 326,
+        "description": "Hit the green switch twice to pass through the teleporter room",
+        "triggered": false
+      },
+      {
+        "id": 327,
+        "description": "Navigate through the blue and red switches to reach the next room",
+        "triggered": false
+      },
+      {
+        "id": 328,
+        "description": "Make your way back to the first blue button and press it to reach the right side of the room",
+        "triggered": false
+      },
+      {
+        "id": 329,
+        "description": "Take the teleporter to reach the Gym Leader room",
+        "triggered": false
+      },
+      {
+        "id": 330,
+        "description": "Challenge Tate and Liza with Pokémon around level 38",
+        "triggered": false
+      },
+      {
+        "id": 331,
+        "description": "Watch out for Earthquake and use Water and Dark-type moves to win the battle",
+        "triggered": false
+      },
+      {
+        "id": 332,
+        "description": "Obtain the Mind Badge after defeating Tate and Liza",
+        "triggered": false
+      },
+      {
+        "id": 333,
+        "description": "Head to the Space Center where Team Magma has arrived",
+        "triggered": false
+      },
+      {
+        "id": 334,
+        "description": "Battle through Team Magma grunts and reach the second floor",
+        "triggered": false
+      },
+      {
+        "id": 335,
+        "description": "Fight three trainers at once on the second floor, each with one Pokémon",
+        "triggered": false
+      },
+      {
+        "id": 336,
+        "description": "Meet Steven with Maxie in the bottom left corner and prepare for a double battle",
+        "triggered": false
+      },
+      {
+        "id": 337,
+        "description": "Steven joins you in a double battle against Maxie and his Admin",
+        "triggered": false
+      },
+      {
+        "id": 338,
+        "description": "Win the double battle and follow Steven to his house on the top left corner of the island",
+        "triggered": false
+      },
+      {
+        "id": 339,
+        "description": "Receive the HM Dive from Steven",
+        "triggered": false
+      },
+      {
+        "id": 340,
+        "description": "Learn that dark patches of water can be used to dive to the ocean floor",
+        "triggered": false
+      },
+      {
+        "id": 341,
+        "description": "Prepare a Pokémon that knows Dive and head to the bottom left corner of the shore",
+        "triggered": false
+      },
+      {
+        "id": 342,
+        "description": "Head south through Route 124",
+        "triggered": false
+      },
+      {
+        "id": 343,
+        "description": "Pass a red-headed swimmer on Route 124",
+        "triggered": false
+      },
+      {
+        "id": 344,
+        "description": "Continue south until you reach Route 126",
+        "triggered": false
+      },
+      {
+        "id": 345,
+        "description": "Engage in a double battle on Route 126",
+        "triggered": false
+      },
+      {
+        "id": 346,
+        "description": "Keep moving until you reach the area with white rocks",
+        "triggered": false
+      },
+      {
+        "id": 347,
+        "description": "Dive around the area with white rocks",
+        "triggered": false
+      },
+      {
+        "id": 348,
+        "description": "Find a cave at the bottom of the underwater area",
+        "triggered": false
+      },
+      {
+        "id": 349,
+        "description": "Enter the cave and resurface to reach Sootopolis City",
+        "triggered": false
+      },
+      {
+        "id": 350,
+        "description": "Locate the Poké Mart on the left-hand side of Sootopolis City",
+        "triggered": false
+      },
+      {
+        "id": 351,
+        "description": "Locate the Pokémon Center on the right-hand corner of Sootopolis City",
+        "triggered": false
+      },
+      {
+        "id": 352,
+        "description": "Discover that the Gym in Sootopolis City is currently closed",
+        "triggered": false
+      },
+      {
+        "id": 353,
+        "description": "Prepare to leave Sootopolis City and look for Team Aqua using Dive",
+        "triggered": false
+      },
+      {
+        "id": 354,
+        "description": "Ensure you have a Pokémon with Rock Smash and Strength before leaving Sootopolis City",
+        "triggered": false
+      },
+      {
+        "id": 355,
+        "description": "Resurface right outside the city after diving",
+        "triggered": false
+      },
+      {
+        "id": 356,
+        "description": "Surf to the bottom right corner and follow the wall to navigate",
+        "triggered": false
+      },
+      {
+        "id": 357,
+        "description": "Identify regular brown-colored rocks as you get closer to your destination",
+        "triggered": false
+      },
+      {
+        "id": 358,
+        "description": "Navigate around the brown rocks to follow a path",
+        "triggered": false
+      },
+      {
+        "id": 359,
+        "description": "Follow a path along diveable water",
+        "triggered": false
+      },
+      {
+        "id": 360,
+        "description": "Encounter a red swimmer with a Wingull and a Staryu",
+        "triggered": false
+      },
+      {
+        "id": 361,
+        "description": "Continue south to reach Route 128",
+        "triggered": false
+      },
+      {
+        "id": 362,
+        "description": "Locate a shallow piece of water to land on",
+        "triggered": false
+      },
+      {
+        "id": 363,
+        "description": "Dive into the water to discover a cave",
+        "triggered": false
+      },
+      {
+        "id": 364,
+        "description": "Enter the cave to find the stolen submarine",
+        "triggered": false
+      },
+      {
+        "id": 365,
+        "description": "Resurface inside the cave and land",
+        "triggered": false
+      },
+      {
+        "id": 366,
+        "description": "Enter the cave to confront Team Aqua",
+        "triggered": false
+      },
+      {
+        "id": 367,
+        "description": "Take the left path and encounter rocks to break and boulders to move",
+        "triggered": false
+      },
+      {
+        "id": 368,
+        "description": "Solve boulder and rock puzzles to progress through the cave",
+        "triggered": false
+      },
+      {
+        "id": 369,
+        "description": "Navigate currents and puzzles to reach Archie",
+        "triggered": false
+      },
+      {
+        "id": 370,
+        "description": "Battle Archie and witness Kyogre awakening",
+        "triggered": false
+      },
+      {
+        "id": 371,
+        "description": "Fly to Sootopolis City to stop Kyogre and Groudon",
+        "triggered": false
+      },
+      {
+        "id": 373,
+        "description": "Witness the cutscene of Kyogre and Groudon fighting in Sootopolis",
+        "triggered": false
+      },
+      {
+        "id": 374,
+        "description": "Follow Steven to the Cave of Origin and meet Wallace",
+        "triggered": false
+      },
+      {
+        "id": 375,
+        "description": "Head to Sky Pillar to awaken Rayquaza",
+        "triggered": false
+      },
+      {
+        "id": 376,
+        "description": "Return to Sootopolis to see Rayquaza stop the battle",
+        "triggered": false
+      },
+      {
+        "id": 377,
+        "description": "Receive the HM Waterfall from Wallace",
+        "triggered": false
+      },
+      {
+        "id": 378,
+        "description": "Solve the final Gym's floor puzzle and defeat Juan",
+        "triggered": false
+      },
+      {
+        "id": 379,
+        "description": "Obtain the final badge, preparing for the Elite Four",
+        "triggered": false
+      },
+      {
+        "id": 380,
+        "description": "Optional: Return to Sky Pillar to catch Rayquaza",
+        "triggered": false
+      },
+      {
+        "id": 381,
+        "description": "Prepare for a battle with Rayquaza at LVL 70",
+        "triggered": false
+      },
+      {
+        "id": 382,
+        "description": "Notice the increased number of rocks on the path compared to last time",
+        "triggered": false
+      },
+      {
+        "id": 383,
+        "description": "Use a Mach Bike to navigate the Sky Pillar",
+        "triggered": false
+      },
+      {
+        "id": 384,
+        "description": "Get a running start to reach the bottom",
+        "triggered": false
+      },
+      {
+        "id": 385,
+        "description": "Prepare for a tight turn while navigating",
+        "triggered": false
+      },
+      {
+        "id": 386,
+        "description": "Turn left, then up, then right, and then up again to progress",
+        "triggered": false
+      },
+      {
+        "id": 387,
+        "description": "Reach the next floor and get ready for another tight turn",
+        "triggered": false
+      },
+      {
+        "id": 388,
+        "description": "Navigate left and then straight up at the rock",
+        "triggered": false
+      },
+      {
+        "id": 389,
+        "description": "Back up and fall through the second or third crack",
+        "triggered": false
+      },
+      {
+        "id": 390,
+        "description": "Reach the top of Sky Pillar where Rayquaza is located",
+        "triggered": false
+      },
+      {
+        "id": 391,
+        "description": "Save the game before battling Rayquaza to avoid missing the chance to catch it",
+        "triggered": false
+      },
+      {
+        "id": 392,
+        "description": "Head to where Team Aqua awakened Kyogre, then head right with a Pokémon that knows Waterfall",
+        "triggered": false
+      },
+      {
+        "id": 393,
+        "description": "Pass the fisherman and encounter a swimmer",
+        "triggered": false
+      },
+      {
+        "id": 394,
+        "description": "Reach Evergrande City and scale the Waterfall to reach the Pokémon Center",
+        "triggered": false
+      },
+      {
+        "id": 395,
+        "description": "Prepare Pokémon with Strength, Rock Smash, Flash, Surf, and Waterfall for Victory Road",
+        "triggered": false
+      },
+      {
+        "id": 396,
+        "description": "Enter Victory Road and be ready for strong battles",
+        "triggered": false
+      },
+      {
+        "id": 397,
+        "description": "Wally challenges you after crossing the bridge in Victory Road",
+        "triggered": false
+      },
+      {
+        "id": 398,
+        "description": "Defeat Wally's team, which includes Altaria, Magneton, Gardevoir, Delcatty, and Roselia",
+        "triggered": false
+      },
+      {
+        "id": 399,
+        "description": "Heal your Pokémon if needed and head North of Wally",
+        "triggered": false
+      },
+      {
+        "id": 400,
+        "description": "Navigate the boulder and rock puzzles to progress",
+        "triggered": false
+      },
+      {
+        "id": 401,
+        "description": "Use Flash to light the way after going down the ladder",
+        "triggered": false
+      },
+      {
+        "id": 402,
+        "description": "Move boulders and break rocks to clear the path in Victory Road",
+        "triggered": false
+      },
+      {
+        "id": 403,
+        "description": "Use Waterfall to ascend and descend different areas in Victory Road",
+        "triggered": false
+      },
+      {
+        "id": 404,
+        "description": "Reach the exit of Victory Road by navigating past trainers and obstacles",
+        "triggered": false
+      },
+      {
+        "id": 405,
+        "description": "Arrive at the entrance to the Pokémon League",
+        "triggered": false
+      },
+      {
+        "id": 406,
+        "description": "Purchase around 50 Full Restores and 50 Revives from the Pokémon Mart at the Pokémon League",
+        "triggered": false
+      },
+      {
+        "id": 407,
+        "description": "Ensure all badges are confirmed at the Pokémon League entrance",
+        "triggered": false
+      },
+      {
+        "id": 408,
+        "description": "Prepare a team with Pokémon at least Level 45 with moves: Fighting, Electric, Fire, Dark, Ice, Flying",
+        "triggered": false
+      },
+      {
+        "id": 409,
+        "description": "Defeat Sidney of the Elite Four using Fighting, Fire, and Electric moves",
+        "triggered": false
+      },
+      {
+        "id": 410,
+        "description": "Defeat Phoebe of the Elite Four using Dark moves; avoid using Normal and Fighting moves",
+        "triggered": false
+      },
+      {
+        "id": 411,
+        "description": "Defeat Glacia of the Elite Four using Electric and Fire moves",
+        "triggered": false
+      },
+      {
+        "id": 412,
+        "description": "Defeat Drake of the Elite Four using Ice and Electric moves",
+        "triggered": false
+      },
+      {
+        "id": 413,
+        "description": "Defeat Wallace, the Champion, using Electric and Grass moves",
+        "triggered": false
+      },
+      {
+        "id": 414,
+        "description": "Record your team in the Hall of Fame after defeating the Elite Four and Champion",
+        "triggered": false
+      },
+      {
+        "id": 415,
+        "description": "Complete Pokémon Emerald after recording in the Hall of Fame",
+        "triggered": false
+      }
+
+  ]
+  
