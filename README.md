@@ -9,8 +9,10 @@ game_flags for guiding AI game project
       "triggered": false
     },
 
-id: Sequential number in order of actions the ai must take.
-description: Description of next action to make progress in game, this is the default setting for the ai - keep this brief but detailed.
+id: Sequential number in order of actions the ai must take.  
+
+description: Description of next action to make progress in game, this is the default setting for the ai - keep this brief but detailed.  
+
 triggered: False by default, updated in process.
 
 
